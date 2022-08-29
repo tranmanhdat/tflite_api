@@ -1,1 +1,2 @@
 # tflite_api
+## This inspired by [cuongvng](https://github.com/cuongvng), who started 2 repos ( [Face-Detection-TFLite-JNI-Android](https://github.com/cuongvng/Face-Detection-TFLite-JNI-Android), (TF-Lite-Cpp-API-for-Android)[https://github.com/cuongvng/TF-Lite-Cpp-API-for-Android])

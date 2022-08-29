@@ -1,0 +1,6 @@
+[submodule "include/abseil"]
+	path = include/abseil
+	url = https://github.com/abseil/abseil-cpp
+[submodule "include/flatbuffers"]
+	path = include/flatbuffers
+	url = https://github.com/google/flatbuffers
